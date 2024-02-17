@@ -44,3 +44,5 @@ StegImage utilizes robust encryption techniques to ensure the security of your h
 ## Getting Started:
 
 Head over to the [StegImage GitHub repository](#) for detailed installation and usage instructions. With its versatility and user-friendly design, StegImage empowers you to protect your confidential information in various digital formats.
+
+![StegImage Logo](StegImage.png)
